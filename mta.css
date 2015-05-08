@@ -1,0 +1,80 @@
+ body {
+      text-align: center;
+      background: url("http://www.technobuffalo.com/wp-content/uploads/2013/04/subway-wireless-nyc.jpg");
+      background-size: cover;
+      background-position: center;
+      color: black;
+      font-family: helvetica;
+      font-weight:bold;
+      
+    }
+    
+    bodytitle {
+      text-decoration:underline;
+      font-weight:bold;
+      }
+    
+    tabs{
+      border-bottom:5px; 
+      }
+    /*
+    p {
+      font-size: 22px;
+      background-color:rgba(255,255,255,0.8);
+      height:inherit;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 10px; /* may not be good for all browsers */
+      margin-bottom:40px;
+      width:inherit;
+      
+    }*/
+    
+    pwrap{width:520px;height: 700px;}
+    pwrap2{height:80px;width:520px;}
+    
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    
+    contact {
+      font-size: 22px;
+      background-color:rgba(255,255,255,0.8);
+      width:510px !important;
+      height:700px;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 10px; /* may not be good for all browsers */
+      margin-bottom:40px;
+      }
+
+ p {
+      font-size: 22px;
+      background-color:rgba(255,255,255,0.8);
+      height:inherit;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 10px; /* may not be good for all browsers */
+      margin-bottom:40px;
+      width:450px;
+      
+    }
+
+ #mainwrap {
+      font-size: 22px;
+      background-color:rgba(255,255,255,0.8);
+      height:inherit;
+      margin-left:auto;
+      margin-right:auto;
+      border-radius: 10px; /* may not be good for all browsers */
+      margin-bottom:40px;
+      width:450px;
+      
+    }
